@@ -1,0 +1,115 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.title {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	position: relative;
+	left: 20%;
+}
+
+.skills {
+	display: flex;
+	justify-content: flex-start;
+
+	background-color: cornflowerblue;
+	color: azure;
+	
+}
+
+.hobbies {
+	display: flex;
+	justify-content: center;
+
+	background-color: burlywood;
+	color: azure;
+}
+
+.fav-food {
+	display: flex;
+	justify-content: flex-end;
+
+	background-color: seagreen;
+	color: azure;
+}
+
+.container {
+	color: brown;
+}
+
+.interests {
+	background-color: blueviolet;
+	color: whitesmoke;
+}
+
+.textbox {
+	background-color: chocolate;
+	color: white;
+}
+
+.fave-button {
+ 	background-color: yellow;
+ 	width: 500px;
+ 	height: 55px;
+	font-size: 30px;
+	text-align: center;
+	text-emphasis-color: white;
+	border-radius: 5px;
+	
+
+	margin: 15px;
+
+	
+
+	
+}
+
+#random-restaurant {
+	background-color: red;
+	color: azure;
+	width: 500px;
+ 	height: 55px;
+	font-size: 30px;
+	border-radius: 5px;
+	
+
+}
